@@ -7,3 +7,4 @@ list_2 = [True,False]  # List of booleans
 print(list_2)
 list_3 = ["ali",1,True] # List of integers booleans and strings
 print(list_3)
+print(list_3[0])
